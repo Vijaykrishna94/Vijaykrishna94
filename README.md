@@ -1,5 +1,5 @@
 # 💡 Senior Cloud Data Engineer (AI) 🚀
-![Data Engineer](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI0b3I4N2Z6YmI5M295OTBjZDdrdmZlaGtiMDE5dGw4OXh1b2xmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
+![Data Engineer](https://media.giphy.com/media/OLPQ6z2hlHmwFc4Hso/giphy.gif?cid=ecf05e47z5jcyb9ayv906u4gv3brju0pxgxaqyb2s4wc035g&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat-square)
 
 ## 🌟 About Me
