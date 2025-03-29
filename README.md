@@ -1,70 +1,73 @@
-![Header](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
+![AI Engineer](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
 
-# 👋 Hi, I'm **[Your Name]**
+# 💡 Cloud Senior Data Engineer (AI) 🚀
 
-🚀 **Senior Cloud Data Engineer (AI) | Big Data | MLOps | LLM**
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat-square)
 
----
+## 🌟 About Me
 
-## 🔥 About Me
-I specialize in building scalable data pipelines, architecting cloud-based AI solutions, and optimizing machine learning workflows. With expertise in big data ecosystems, cloud platforms, and MLOps, I create seamless and efficient data solutions.
+🔹 Passionate **Cloud Data Engineer** specializing in **AI** and **Big Data Ecosystems**.<br>
 
----
-
-## 🛠️ Tech Stack
-
-### **Languages & Tools**
-![Python](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
-![SQL](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-![JavaScript](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)
-![REST API](https://media.giphy.com/media/XBTR5Rt3IX3JC/giphy.gif)
-![Tableau](https://media.giphy.com/media/l1J3preURPiwjRPvG/giphy.gif)
-![Power BI](https://media.giphy.com/media/MVgLEeRHbrV7m/giphy.gif)
-
-### **Cloud Services**
-![Azure](https://media.giphy.com/media/Y4bzv6DYbYzt7j7j6s/giphy.gif)
-![GCP](https://media.giphy.com/media/Q8mfo7XwC6VeoV1kBM/giphy.gif)
-![AWS](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)
-![Databricks](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
-![Snowflake](https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif)
-
-### **Big Data Ecosystem**
-![Hadoop](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
-![Spark](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
-![Kafka](https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif)
-![Airflow](https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif)
-![DBT](https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif)
-
-### **Machine Learning & AI**
-🧠 **ML Models:** Decision Trees, XGBoost, Neural Networks, NLP, RAG, LLMs, Agentic AI
-
-### **MLOps & DataOps**
-![Docker](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
-![Kubernetes](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)
-![Terraform](https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif)
-![Jenkins](https://media.giphy.com/media/3orieQeaXcOrDoAR5u/giphy.gif)
-![Flask](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-![FastAPI](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
-![GitHub Actions](https://media.giphy.com/media/Y2ZUWLrTy63j9T6qrK/giphy.gif)
-
-### **Databases**
-![MySQL](https://media.giphy.com/media/UqZodEhtH4nPOgIDzS/giphy.gif)
-![PostgreSQL](https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif)
-![MongoDB](https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif)
 
 ---
+## ⚙️ Tech Stack
 
+### 🛠 Tools & Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rest API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
+
+### ☁️ Cloud & Services
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+### 🔥 Big Data Ecosystem
+
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+
+### 🤖 Machine Learning & AI
+
+![XGBoost](https://img.shields.io/badge/XGBoost-F76C00?style=for-the-badge&logo=xgboost&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-00BFFF?style=for-the-badge&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00A3E0?style=for-the-badge&logo=google-cloud-natural-language&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-9146FF?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🚀 DataOps & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 💾 Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="50%"/>
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
 ---
+## 🚀 Contact Me
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+📧 **Email:** vijaykrishnaburra@gmail.com  
+💼 **LinkedIn:** www.linkedin.com/in/vijay-krishna-burra-a79a07105
 
-🚀 Let's build something amazing together!
+![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+---
+🔗 **Let's Connect and Build Something Awesome!** 🚀
