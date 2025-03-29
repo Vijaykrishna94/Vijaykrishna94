@@ -59,7 +59,7 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vijaykrishna94&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaykrishna94&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaykrishna94&show_icons=true&theme=radical)
 
 ---
 ## 🚀 Contact Me
