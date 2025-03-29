@@ -68,7 +68,7 @@
 ## 🚀 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijaykrishnaburra@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vijay-krishna-burra-a79a07105)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/vijay-krishna-burra-a79a07105)
 
 
 <img src="https://raw.githubusercontent.com/Vijaykrishna94/Vijaykrishna94/output/snake.svg" alt="Snake animation" />
