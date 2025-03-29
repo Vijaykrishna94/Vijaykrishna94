@@ -56,8 +56,8 @@ I specialize in building scalable data pipelines, architecting cloud-based AI so
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vijaykrishna94&show_icons=true&theme=tokyonight" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijaykrishna94&theme=tokyonight" width="50%"/>
 </p>
 
 ---
