@@ -71,8 +71,10 @@
 
 📧 **Email:** vijaykrishnaburra@gmail.com  
 💼 **LinkedIn:** www.linkedin.com/in/vijay-krishna-burra-a79a07105
+###
+<img src="https://raw.githubusercontent.com/Vijaykrishna94/Vijaykrishna94/output/snake.svg" alt="Snake animation" />
 
-![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+###
 
 ---
 🔗 **Let's Connect and Build Something Awesome!** 🚀
