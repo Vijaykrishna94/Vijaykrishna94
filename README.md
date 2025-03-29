@@ -1,5 +1,3 @@
-![Header](https://source.unsplash.com/1600x400/?technology,data)
-
 # 👋 Hi, I'm **Vijay Krishna**
 
 🚀 **Senior Cloud Data Engineer (AI) | Big Data | MLOps | LLM**
