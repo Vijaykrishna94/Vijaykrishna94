@@ -1,4 +1,4 @@
-![AI Engineer](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
+![Data Engineer](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
 
 # 💡 Cloud Senior Data Engineer (AI) 🚀
 
